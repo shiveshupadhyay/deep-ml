@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:01:58.333Z",
+  "generated_at": "2026-11-09T13:05:42.592Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -44,6 +44,17 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-11-09T13:01:58.253Z",
       "last_pushed_at": "2026-11-09T13:01:58.253Z"
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-11-09T13:05:42.554Z",
+      "last_pushed_at": "2026-11-09T13:05:42.554Z"
     }
   }
 }
