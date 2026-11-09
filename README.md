@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 0 problems · 0 labs · 8 math
+**9** solved · 1 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://shiveshupadhyay.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-11-09 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 
 ## Math
 
