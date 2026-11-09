@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T12:34:53.460Z",
+  "generated_at": "2026-11-09T12:42:15.656Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-11-09T12:34:53.411Z",
       "last_pushed_at": "2026-11-09T12:34:53.411Z"
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-11-09T12:42:15.735Z",
+      "last_pushed_at": "2026-11-09T12:42:15.735Z"
     }
   }
 }
