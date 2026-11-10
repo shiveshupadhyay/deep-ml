@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 11 problems · 0 labs · 8 math
+**20** solved · 12 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-09 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-10 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-09 | [solution](problems/0801-polynomial-regression-fit) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-10 | [solution](problems/0020-decision-tree-learning) |
 
 ## Math
 
