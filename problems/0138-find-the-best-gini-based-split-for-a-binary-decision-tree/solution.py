@@ -20,8 +20,7 @@ def find_best_split(X: np.ndarray, y: np.ndarray) -> Tuple[int, float]:
 
         mask1 = feature > unique_val2d
         mask2 = feature <= unique_val2d
-        
-        # Count ones: sample must be in mask AND y must equal 1
+
         one_counts1 = np.sum(mask1 & (y_2d == 1), axis=0)
         zero_counts1 = np.sum(mask1 & (y_2d == 0), axis=0)
         
@@ -44,7 +43,6 @@ def find_best_split(X: np.ndarray, y: np.ndarray) -> Tuple[int, float]:
         best_threshold = unique_val.flatten()[min_idx]
         gini = gini_scores.flatten()[min_idx]
         
-        # Using strict '<' naturally preserves the first encountered split in case of ties
         if gini < final_gini:
             final_feature = feat_idx
             final_gini = gini 
